@@ -54,7 +54,6 @@ I enjoy working with data analysis tools and building projects that help explore
 - Explored salary, performance, attendance, and overtime metrics.
 - Built interactive visualizations and dashboard components to support HR analysis.
 
-🔗 [View Project Post on LinkedIn](https://lnkd.in/p/eBAUxPfq)
 
 ### 2. Supply Chain Analytics Dashboard
 
@@ -84,7 +83,6 @@ I enjoy working with data analysis tools and building projects that help explore
 - Applied `while` loops to manage game flow and retry options.
 - Used functions and user input to create an interactive experience.
 
-🔗 [View Project Post on LinkedIn](https://lnkd.in/p/ejXqAxB3)
 
 ---
 
@@ -99,7 +97,7 @@ I enjoy working with data analysis tools and building projects that help explore
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Visit My Profile](https://www.linkedin.com/)
+- **LinkedIn:** [Visit My Profile](https://www.linkedin.com/in/jody-mohamed-540669349/)
 - **GitHub:** [My GitHub Profile](https://github.com/jodymagha)
 
 ---
